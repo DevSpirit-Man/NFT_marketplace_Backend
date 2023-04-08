@@ -160,4 +160,3 @@ These should have access to the same environmental variables as **quix-opt-mainn
 ## Known issues
 
 If running Quix in a production setting, you should be aware of the known issues [here](docs/KnownIssues.md).
-
